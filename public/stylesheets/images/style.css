@@ -1,0 +1,45 @@
+#logo, .nav-link{
+    margin-left: 20px;
+    display: inline;
+}
+
+.navbar{
+    background-color: rgb(165, 153, 153);
+}
+
+#account {
+    margin-left: 1480px; /* Pushes the element to the right */
+  }
+
+  #product, .product{
+    width: 200px;
+    border: solid 1px;
+  }
+
+  #product{
+    height: 200px;
+  }
+
+  #productimg{
+    width: 200px;
+    height: 200px;
+  }
+
+  .container2, .checkout-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh; 
+  }
+
+  #Login, #Create{
+    margin-top: 10px;
+  }
+  
+  h1{
+    text-align: center;
+  }
+  .checkout-container{
+    margin-left: 700px;
+  }
